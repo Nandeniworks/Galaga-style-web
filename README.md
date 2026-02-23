@@ -1,4 +1,4 @@
-# GALAGA Fan Website 🎮🚀
+# GALAGA shooter game  style Website 🎮🚀
 
 A fully designed multi-page fan website inspired by the legendary 1981 arcade shooter **Galaga**.  
 This project recreates a retro arcade experience using animated backgrounds, interactive sliders, merchandise pages, and game links.
